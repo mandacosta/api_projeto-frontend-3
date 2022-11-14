@@ -1,0 +1,265 @@
+{
+  "users": [
+    {
+      "email": "alyssonLindao@mail.com",
+      "password": "$2a$10$CD3lekoxbZg1py.wzZs2CeKsYkdmL0q/kyAPnaxfhqN.DhmWLyvjy",
+      "name": "Alysson de Alcantara",
+      "cpf": "12345678978",
+      "isSyndic": true,
+      "contact": "(41)847126542",
+      "id": 2,
+      "aptNumber": "00"
+    },
+    {
+      "email": "mandacosta@mail.com",
+      "password": "$2a$10$AdGeVNyof9/6NAlbZSFvoOb0Duo3qEru9XpdOYuhu2ZjYv.EdFRE6",
+      "name": "Amanda Costa",
+      "aptNumber": "111",
+      "contact": "999999999",
+      "cpf": "44444444444",
+      "isSyndic": false,
+      "id": 3
+    },
+    {
+      "email": "ruan@mail.com",
+      "password": "$2a$10$8k5vsQestHH8t9KCfyBTm.FkuwXztiww/sk/QBcnwFxds4T9NKCWS",
+      "name": "Ruan Costa",
+      "aptNumber": "222",
+      "contact": "999999999",
+      "cpf": "44444444444",
+      "isSyndic": false,
+      "id": 4
+    }
+  ],
+  "issues": [
+    {
+      "type": "aviso",
+      "description": "Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.Mais uma coisinha",
+      "date": "2022-11-09",
+      "user": {
+        "email": "alyssonLindao@mail.com",
+        "name": "Alysson de Alcantara",
+        "cpf": "12345678978",
+        "isSyndic": true,
+        "contact": "(41)847126542",
+        "id": 2,
+        "aptNumber": "00"
+      },
+      "id": 1
+    },
+    {
+      "type": "reclamação",
+      "description": "Som muito alto no salão de festas até tarde ontem ! Tenho um bebe que não conseguiu dormir",
+      "date": "2022-11-09",
+      "user": {
+        "email": "mandacosta@mail.com",
+        "name": "Amanda Costa",
+        "aptNumber": "111",
+        "contact": "999999999",
+        "cpf": "44444444444",
+        "isSyndic": false,
+        "id": 3
+      },
+      "id": 2,
+      "reply": "Vou falar com os moradores responsáveis."
+    },
+    {
+      "type": "solicitação",
+      "description": "Poderia verificar a luz piscando do elevador ?",
+      "date": "2022-11-09",
+      "user": {
+        "email": "mandacosta@mail.com",
+        "name": "Amanda Costa",
+        "aptNumber": "111",
+        "contact": "999999999",
+        "cpf": "44444444444",
+        "isSyndic": false,
+        "id": 3
+      },
+      "id": 4,
+      "reply": "Está no orçamento a troca da lampada ao final do mês."
+    },
+    {
+      "type": "reclamação",
+      "description": "Bebe chorando muito alto !!",
+      "date": "2022-11-09",
+      "user": {
+        "email": "ruan@mail.com",
+        "name": "Ruan Costa",
+        "aptNumber": "222",
+        "contact": "999999999",
+        "cpf": "44444444444",
+        "isSyndic": false,
+        "id": 4
+      },
+      "id": 5,
+      "reply": "A moradora disse que foi porque o som da festa acordou o bebe."
+    },
+    {
+      "type": "solicitação",
+      "description": "O espelho do hall tem uma trinca, favor providenciar troca.",
+      "date": "2022-11-09",
+      "user": {
+        "email": "ruan@mail.com",
+        "name": "Ruan Costa",
+        "aptNumber": "222",
+        "contact": "999999999",
+        "cpf": "44444444444",
+        "isSyndic": false,
+        "id": 4
+      },
+      "id": 6,
+      "reply": "Está no orçamento a troca do espelho ao final do mês. Mas já vou providenciar a retirada."
+    },
+    {
+      "type": "solicitação",
+      "description": "Mais um pedido que eu faço a você",
+      "date": "2022-11-09",
+      "user": {
+        "email": "mandacosta@mail.com",
+        "name": "Amanda Costa",
+        "aptNumber": "111",
+        "contact": "999999999",
+        "cpf": "44444444444",
+        "isSyndic": false,
+        "id": 3
+      },
+      "id": 7
+    },
+    {
+      "type": "solicitação",
+      "description": "Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only f",
+      "date": "2022-11-09",
+      "user": {
+        "email": "mandacosta@mail.com",
+        "password": "$2a$10$AdGeVNyof9/6NAlbZSFvoOb0Duo3qEru9XpdOYuhu2ZjYv.EdFRE6",
+        "name": "Amanda Costa",
+        "aptNumber": "111",
+        "contact": "999999999",
+        "cpf": "44444444444",
+        "isSyndic": false,
+        "id": 3
+      },
+      "id": 8
+    },
+    {
+      "type": "reclamação",
+      "description": "Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only f",
+      "date": "2022-11-10",
+      "user": {
+        "email": "mandacosta@mail.com",
+        "password": "$2a$10$AdGeVNyof9/6NAlbZSFvoOb0Duo3qEru9XpdOYuhu2ZjYv.EdFRE6",
+        "name": "Amanda Costa",
+        "aptNumber": "111",
+        "contact": "999999999",
+        "cpf": "44444444444",
+        "isSyndic": false,
+        "id": 3
+      },
+      "id": 9,
+      "reply": "Teste de resposta"
+    },
+    {
+      "type": "aviso",
+      "title": "Teste",
+      "description": "Teste de aviso",
+      "date": "2022-11-09",
+      "user": {
+        "email": "alyssonLindao@mail.com",
+        "name": "Alysson de Alcantara",
+        "cpf": "12345678978",
+        "isSyndic": true,
+        "contact": "(41)847126542",
+        "id": 2,
+        "aptNumber": "00"
+      },
+      "id": 10
+    },
+    {
+      "type": "reclamação",
+      "title": "Energia",
+      "description": "Falta de energia no corredor",
+      "date": "2022-11-09",
+      "user": {
+        "email": "mandacosta@mail.com",
+        "name": "Amanda Costa",
+        "aptNumber": "111",
+        "contact": "999999999",
+        "cpf": "44444444444",
+        "isSyndic": false,
+        "id": 3
+      },
+      "id": 11
+    }
+  ],
+  "commom_areas": [
+    {
+      "value": "grill",
+      "label": "Churrasqueira"
+    },
+    {
+      "value": "pool",
+      "label": "Piscina"
+    },
+    {
+      "value": "saloon",
+      "label": "Salão de Festas"
+    }
+  ],
+  "saloon_reservation": [
+    {
+      "title": "Detetização do salão",
+      "user": {
+        "email": "alyssonLindao@mail.com",
+        "name": "Alysson de Alcantara",
+        "cpf": "12345678978",
+        "isSyndic": true,
+        "contact": "(41)847126542",
+        "id": 2,
+        "aptNumber": "00"
+      },
+      "reserved_date": {
+        "day": 14,
+        "month": 11,
+        "year": 2022
+      },
+      "id": 1
+    },
+    {
+      "title": "Festa",
+      "user": {
+        "email": "mandacosta@mail.com",
+        "name": "Amanda Costa",
+        "aptNumber": "111",
+        "contact": "999999999",
+        "cpf": "44444444444",
+        "isSyndic": false,
+        "id": 3
+      },
+      "reserved_date": {
+        "day": 12,
+        "month": 11,
+        "year": 2022
+      },
+      "id": 2
+    }
+  ],
+  "saloon_reserved_dates": [
+    {
+      "day": 14,
+      "month": 11,
+      "year": 2022,
+      "id": 1
+    },
+    {
+      "day": 12,
+      "month": 11,
+      "year": 2022,
+      "id": 2
+    }
+  ],
+  "pool_reservation": [],
+  "pool_reserved_dates": [],
+  "grill_reservation": [],
+  "grill_reserved_dates": []
+}
