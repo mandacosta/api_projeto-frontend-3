@@ -1,195 +1,152 @@
 {
   "users": [
     {
-      "email": "alyssonLindao@mail.com",
+      "email": "sindico@mail.com",
       "password": "$2a$10$CD3lekoxbZg1py.wzZs2CeKsYkdmL0q/kyAPnaxfhqN.DhmWLyvjy",
-      "name": "Alysson de Alcantara",
-      "cpf": "12345678978",
+      "name": "Alysson - Síndico",
       "isSyndic": true,
-      "contact": "(41)847126542",
-      "id": 2,
+      "contact": "999999999",
+      "id": 1,
       "aptNumber": "00"
     },
     {
-      "email": "mandacosta@mail.com",
-      "password": "$2a$10$AdGeVNyof9/6NAlbZSFvoOb0Duo3qEru9XpdOYuhu2ZjYv.EdFRE6",
+      "email": "mandacosta94@gmail.com",
+      "password": "$2a$10$3SnMkV0KcRZ.pfsjZIpPB.bOiqB/C3O5tL.Zm9b9diNlZnQKn79Xm",
       "name": "Amanda Costa",
-      "aptNumber": "111",
-      "contact": "999999999",
-      "cpf": "44444444444",
+      "aptNumber": "122",
+      "contact": 999999999,
+      "isSyndic": false,
+      "id": 2
+    },
+    {
+      "email": "ruan@mail.com",
+      "password": "$2a$10$h/zBGeIs9EDOfpufCU1DL.mm.ir4S2jwKcUPEl/sdBl9OGekhxTPO",
+      "name": "Ruan Costa",
+      "aptNumber": "171",
+      "contact": 999999999,
       "isSyndic": false,
       "id": 3
     },
     {
-      "email": "ruan@mail.com",
-      "password": "$2a$10$8k5vsQestHH8t9KCfyBTm.FkuwXztiww/sk/QBcnwFxds4T9NKCWS",
-      "name": "Ruan Costa",
-      "aptNumber": "222",
-      "contact": "999999999",
-      "cpf": "44444444444",
+      "email": "elaine@mail.com",
+      "password": "$2a$10$pkqGB4RxALWk8OUjFbsVTu4CceggIfGH/dOAbTNNI4W60A/yaw7YK",
+      "name": "Elaine Matos",
+      "aptNumber": "333",
+      "contact": 999999999,
       "isSyndic": false,
       "id": 4
+    },
+    {
+      "email": "michele@mail.com",
+      "password": "$2a$10$hf/zvjSxI0eRqshMVpesROj/ausON2aJtLjVyOlpjnVTHGFg98f5q",
+      "name": "Michelle Yumi",
+      "aptNumber": "333",
+      "contact": 999999999,
+      "isSyndic": false,
+      "id": 5
+    },
+    {
+      "email": "lais@mail.com",
+      "password": "$2a$10$/93RwC.ovAZCdIuOA1tXLOH3p3XkhWvAWuJmBtVmXSKqB/lZqOQ7e",
+      "name": "Lais Tavares",
+      "aptNumber": "233",
+      "contact": 999999999,
+      "isSyndic": false,
+      "id": 6
+    },
+    {
+      "email": "marcia@mail.com",
+      "password": "$2a$10$TDfJ7wSLHRYOFyMajEOlDu4V3NCIVxkNffyOw/hCj.J0Cub5uDxZu",
+      "name": "Marcia Costa",
+      "aptNumber": "123",
+      "contact": 999999999,
+      "isSyndic": false,
+      "id": 7
+    },
+    {
+      "email": "nida@mail.com",
+      "password": "$2a$10$H3ERf7zbhWdrnXhgKlnB6O.PPrWvlCc1QOxI2WxVuB2gEHP88YH3q",
+      "name": "Nida Costa",
+      "aptNumber": "111",
+      "contact": 999999999,
+      "isSyndic": false,
+      "id": 8
+    },
+    {
+      "email": "jose@mail.com",
+      "password": "$2a$10$hFoF5kJSy8UTHeH278cEx.5BondAGoLGecGOXN4FsxTI.sQpYKh4S",
+      "name": "Jose Silva",
+      "aptNumber": "122",
+      "contact": 999999999,
+      "isSyndic": false,
+      "id": 9
+    },
+    {
+      "email": "alex@mail.com",
+      "password": "$2a$10$pSkRSvMQCIppRL5M//Aq7Off7e5PYdnb0vf/XDERkEnkVuZ731dfi",
+      "name": "Alex Conder",
+      "aptNumber": "100",
+      "contact": 999999999,
+      "isSyndic": false,
+      "id": 10
+    },
+    {
+      "email": "daniel@mail.com",
+      "password": "$2a$10$oyrQ4lYSf6LFDdK1XoepuuPO5jDYt0jzLcNOn21FcUzJepCS9ku36",
+      "name": "Daniel Pereira",
+      "aptNumber": "189",
+      "contact": 999999999,
+      "isSyndic": false,
+      "id": 11
     }
   ],
   "issues": [
     {
-      "type": "aviso",
-      "description": "Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.Mais uma coisinha",
-      "date": "2022-11-09",
+      "type": "solicitação",
+      "title": "Luz do elevador",
+      "description": "At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa qui officia deserunt mollitia animi, id est laborum et dolorum fuga. Et harum quidem rerum facilis est et expedita distinctio",
+      "date": "16/11/2022",
       "user": {
-        "email": "alyssonLindao@mail.com",
-        "name": "Alysson de Alcantara",
-        "cpf": "12345678978",
-        "isSyndic": true,
-        "contact": "(41)847126542",
-        "id": 2,
-        "aptNumber": "00"
+        "email": "mandacosta94@gmail.com",
+        "name": "Amanda Costa",
+        "aptNumber": "122",
+        "contact": 999999999,
+        "isSyndic": false,
+        "id": 2
       },
-      "id": 1
+      "id": 1,
+      "reply": "Neque porro quisquam est qui dolorem ipsum quia dolor sit amet"
     },
     {
       "type": "reclamação",
-      "description": "Som muito alto no salão de festas até tarde ontem ! Tenho um bebe que não conseguiu dormir",
-      "date": "2022-11-09",
+      "title": "Piso do hall",
+      "description": "Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime placeat facere possimus",
+      "date": "16/11/2022",
       "user": {
-        "email": "mandacosta@mail.com",
+        "email": "mandacosta94@gmail.com",
         "name": "Amanda Costa",
-        "aptNumber": "111",
-        "contact": "999999999",
-        "cpf": "44444444444",
+        "aptNumber": "122",
+        "contact": 999999999,
         "isSyndic": false,
-        "id": 3
+        "id": 2
       },
       "id": 2,
-      "reply": "Vou falar com os moradores responsáveis."
-    },
-    {
-      "type": "solicitação",
-      "description": "Poderia verificar a luz piscando do elevador ?",
-      "date": "2022-11-09",
-      "user": {
-        "email": "mandacosta@mail.com",
-        "name": "Amanda Costa",
-        "aptNumber": "111",
-        "contact": "999999999",
-        "cpf": "44444444444",
-        "isSyndic": false,
-        "id": 3
-      },
-      "id": 4,
-      "reply": "Está no orçamento a troca da lampada ao final do mês."
-    },
-    {
-      "type": "reclamação",
-      "description": "Bebe chorando muito alto !!",
-      "date": "2022-11-09",
-      "user": {
-        "email": "ruan@mail.com",
-        "name": "Ruan Costa",
-        "aptNumber": "222",
-        "contact": "999999999",
-        "cpf": "44444444444",
-        "isSyndic": false,
-        "id": 4
-      },
-      "id": 5,
-      "reply": "A moradora disse que foi porque o som da festa acordou o bebe."
-    },
-    {
-      "type": "solicitação",
-      "description": "O espelho do hall tem uma trinca, favor providenciar troca.",
-      "date": "2022-11-09",
-      "user": {
-        "email": "ruan@mail.com",
-        "name": "Ruan Costa",
-        "aptNumber": "222",
-        "contact": "999999999",
-        "cpf": "44444444444",
-        "isSyndic": false,
-        "id": 4
-      },
-      "id": 6,
-      "reply": "Está no orçamento a troca do espelho ao final do mês. Mas já vou providenciar a retirada."
-    },
-    {
-      "type": "solicitação",
-      "description": "Mais um pedido que eu faço a você",
-      "date": "2022-11-09",
-      "user": {
-        "email": "mandacosta@mail.com",
-        "name": "Amanda Costa",
-        "aptNumber": "111",
-        "contact": "999999999",
-        "cpf": "44444444444",
-        "isSyndic": false,
-        "id": 3
-      },
-      "id": 7
-    },
-    {
-      "type": "solicitação",
-      "description": "Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only f",
-      "date": "2022-11-09",
-      "user": {
-        "email": "mandacosta@mail.com",
-        "password": "$2a$10$AdGeVNyof9/6NAlbZSFvoOb0Duo3qEru9XpdOYuhu2ZjYv.EdFRE6",
-        "name": "Amanda Costa",
-        "aptNumber": "111",
-        "contact": "999999999",
-        "cpf": "44444444444",
-        "isSyndic": false,
-        "id": 3
-      },
-      "id": 8
-    },
-    {
-      "type": "reclamação",
-      "description": "Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only f",
-      "date": "2022-11-10",
-      "user": {
-        "email": "mandacosta@mail.com",
-        "password": "$2a$10$AdGeVNyof9/6NAlbZSFvoOb0Duo3qEru9XpdOYuhu2ZjYv.EdFRE6",
-        "name": "Amanda Costa",
-        "aptNumber": "111",
-        "contact": "999999999",
-        "cpf": "44444444444",
-        "isSyndic": false,
-        "id": 3
-      },
-      "id": 9,
-      "reply": "Teste de resposta"
+      "reply": "Neque porro quisquam est qui dolorem ipsum quia dolor sit amet Neque porro quisquam est qui dolorem ipsum quia dolor sit amet Neque porro quisquam est qui dolorem ipsum quia dolor sit amet Neque porro quisquam est qui dolorem ipsum quia dolor sit amet"
     },
     {
       "type": "aviso",
-      "title": "Teste",
-      "description": "Teste de aviso",
-      "date": "2022-11-09",
+      "title": "IBGE 2022",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam",
+      "date": "16/11/2022",
       "user": {
-        "email": "alyssonLindao@mail.com",
-        "name": "Alysson de Alcantara",
-        "cpf": "12345678978",
+        "email": "sindico@mail.com",
+        "name": "Alysson - Síndico",
         "isSyndic": true,
-        "contact": "(41)847126542",
-        "id": 2,
+        "contact": "999999999",
+        "id": 1,
         "aptNumber": "00"
       },
-      "id": 10
-    },
-    {
-      "type": "reclamação",
-      "title": "Energia",
-      "description": "Falta de energia no corredor",
-      "date": "2022-11-09",
-      "user": {
-        "email": "mandacosta@mail.com",
-        "name": "Amanda Costa",
-        "aptNumber": "111",
-        "contact": "999999999",
-        "cpf": "44444444444",
-        "isSyndic": false,
-        "id": 3
-      },
-      "id": 11
+      "id": 3
     }
   ],
   "commom_areas": [
@@ -258,8 +215,81 @@
       "id": 2
     }
   ],
-  "pool_reservation": [],
-  "pool_reserved_dates": [],
-  "grill_reservation": [],
-  "grill_reserved_dates": []
+  "pool_reservation": [
+    {
+      "title": "Festa de fim de ano",
+      "user": {
+        "email": "sindico@mail.com",
+        "name": "Alysson - Síndico",
+        "isSyndic": true,
+        "contact": "999999999",
+        "id": 1,
+        "aptNumber": "00"
+      },
+      "reserved_date": {
+        "day": 23,
+        "month": 11,
+        "year": 2022
+      },
+      "id": 3
+    },
+    {
+      "title": "Festa",
+      "user": {
+        "email": "mandacosta94@gmail.com",
+        "name": "Amanda Costa",
+        "aptNumber": "122",
+        "contact": 999999999,
+        "isSyndic": false,
+        "id": 2
+      },
+      "reserved_date": {
+        "day": 21,
+        "month": 11,
+        "year": 2022
+      },
+      "id": 4
+    }
+  ],
+  "pool_reserved_dates": [
+    {
+      "day": 23,
+      "month": 11,
+      "year": 2022,
+      "id": 3
+    },
+    {
+      "day": 21,
+      "month": 11,
+      "year": 2022,
+      "id": 4
+    }
+  ],
+  "grill_reservation": [
+    {
+      "title": "Festa da firma",
+      "user": {
+        "email": "mandacosta94@gmail.com",
+        "name": "Amanda Costa",
+        "aptNumber": "122",
+        "contact": 999999999,
+        "isSyndic": false,
+        "id": 2
+      },
+      "reserved_date": {
+        "day": 19,
+        "month": 11,
+        "year": 2022
+      },
+      "id": 1
+    }
+  ],
+  "grill_reserved_dates": [
+    {
+      "day": 19,
+      "month": 11,
+      "year": 2022,
+      "id": 1
+    }
+  ]
 }
